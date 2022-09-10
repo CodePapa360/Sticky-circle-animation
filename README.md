@@ -4,9 +4,7 @@ There is a wonderful animation on the homepage of a site named [HeamlessHR](http
 
 ### Links
 
-- [👉Live preview👈]()
-
-## My process
+- [👉Live preview👈](https://sticky-circle-animation.netlify.app/)
 
 ## Author
 
