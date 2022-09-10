@@ -1,4 +1,4 @@
-# Sticky circle animation of SeamlessHR
+# Sticky circle animation of SeamlessHR site
 
 There is a wonderful animation on the homepage of a site named [HeamlessHR](https://www.seamlesshr.com). It is a little bit challenging animation, so i decided to build it from scratch. I am very pleased with it and hope you will like it.
 
